@@ -5,3 +5,8 @@ def cap_letters(text):
 def first_cap_letter(text):
     """функция для заглавной буквы"""
     return text.title()
+
+
+print(cap_letters("mir"))
+print("rim")
+print(first_cap_letter("roma"))
